@@ -34,8 +34,8 @@ O Detector de Emoções Faciais é uma aplicação de inteligência artificial d
 Rode o comando abaixo:
 
 ```bash
-git clone https://github.com/enzopcz2/chatbot-furia.git
-cd chatbot-furia
+git clone https://github.com/enzopcz2/detector_emocao.git
+cd detector_emocao
 ```
 
 ## ⚙️ **Instalar requerimentos**
