@@ -6,7 +6,8 @@
 ## 🧠 **Sobre o Projeto**
 O Detector de Emoções Faciais é uma aplicação de inteligência artificial desenvolvida para reconhecer expressões faciais humanas em tempo real por meio da webcam. Utilizando técnicas de visão computacional e redes neurais convolucionais (CNNs), o sistema é capaz de identificar emoções como alegria, tristeza, raiva, surpresa, medo, desgosto e neutro.
 
-🔍 Funcionalidades principais:
+### 🔍 Funcionalidades principais:
+
 📸 Captura de vídeo em tempo real com a webcam;
 
 😐 Detecção de rostos utilizando Haar Cascade (OpenCV);
@@ -19,15 +20,15 @@ O Detector de Emoções Faciais é uma aplicação de inteligência artificial d
 
 ⚙️ Implementação 100% local em Python com arquivos .py, sem depender de nuvem.
 
-🚀 Aplicações e utilidade:
+### 🚀 Aplicações e utilidade:
 
--Estudos sobre inteligência artificial e emoções humanas;
+- Estudos sobre inteligência artificial e emoções humanas;
 
--Projetos educacionais com foco em machine learning e deep learning;
+- Projetos educacionais com foco em machine learning e deep learning;
 
--Sistemas interativos de análise emocional em tempo real;
+- Sistemas interativos de análise emocional em tempo real;
 
--Protótipos de interfaces responsivas para feedback emocional.
+- Protótipos de interfaces responsivas para feedback emocional.
 
 ## ⚙️ **Clonar repositório**
 
