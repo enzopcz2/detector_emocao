@@ -1,4 +1,7 @@
-<p align="center">Detector de Emoções pela Webcam</p>
+<h1 align="center">
+  <h1 align="center">Detector de Emoções pela Webcam</h1>
+  <br>
+</h1>
 
 ## 🧠 **Sobre o Projeto**
 O Detector de Emoções Faciais é uma aplicação de inteligência artificial desenvolvida para reconhecer expressões faciais humanas em tempo real por meio da webcam. Utilizando técnicas de visão computacional e redes neurais convolucionais (CNNs), o sistema é capaz de identificar emoções como alegria, tristeza, raiva, surpresa, medo, desgosto e neutro.
